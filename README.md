@@ -7,8 +7,8 @@
 :computer: **HTML**
 
 * [DOCTYPE](./Notes/DOCTYPE.md)
-* [data- 속성](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/data- 속성.md)
-* [local storage vs session storage vs cookie](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/local storage vs session storage vs cookie.md)
+* [data- 속성](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/data-%20%EC%86%8D%EC%84%B1.md)
+* [local storage vs session storage vs cookie](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/local%20storage%20vs%20session%20storage%20vs%20cookie.md)
 
 :computer: **네트워크**
 
