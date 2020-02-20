@@ -7,6 +7,8 @@
 :computer: **HTML**
 
 * [DOCTYPE](./Notes/DOCTYPE.md)
+* [data- 속성](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/data- 속성.md)
+* [local storage vs session storage vs cookie](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/local storage vs session storage vs cookie.md)
 
 :computer: **네트워크**
 

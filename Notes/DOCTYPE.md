@@ -28,4 +28,3 @@ Document Type의 약자로, HTML이 어떤 버전으로 작성되었는지 미�
 * [비표준 모드 quirks mode, 표준 모드 standards mode 차이와 DOCTYPE](https://aboooks.tistory.com/169)
 * [DOCTYPE(문서형 정의) 선언](https://webdir.tistory.com/40)
 * [What is difference between XHTML and HTML?](https://stackoverflow.com/questions/4153403/what-is-difference-between-xhtml-and-html)
-
