@@ -112,7 +112,7 @@ DELETE /students/1
 
 마지막으로 아래 그림을 보고 정리해보자.
 
-<img src="../images/REST.png">
+<img src="../../images/REST.png">
 
 <br>
 

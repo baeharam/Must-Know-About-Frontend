@@ -2,13 +2,14 @@
 
 :computer: **프론트엔드 전반**
 
-* [CSR vs SSR](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Frontend/CSR%20vs%20SSR.md)
+* [CSR vs SSR](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Frontend/CSR%20vs%20SSR.md)
 
 :page_with_curl: **HTML**
 
 * [DOCTYPE](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/HTML/DOCTYPE.md)
 * [data- 속성](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/HTML/data-%20%EC%86%8D%EC%84%B1.md)
 * [local storage vs session storage vs cookie](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/HTML/local%20storage%20vs%20session%20storage%20vs%20cookie.md)
+* [script vs script async vs script defer](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/HTML/script%2C%20script%20async%2C%20script%20defer.md)
 
  :chart_with_upwards_trend: **네트워크**
 
