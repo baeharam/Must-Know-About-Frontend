@@ -21,6 +21,7 @@
 
 * [AJAX](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/AJAX.md)
 * [이벤트 위임](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%9C%84%EC%9E%84.md)
+* [스코프](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/scope.md)
 
 :lipstick: **CSS**
 
