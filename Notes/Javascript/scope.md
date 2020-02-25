@@ -1,6 +1,6 @@
 # 스코프
 
-> [Execution Context](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/Execution Context.md) 를 모른다면 보고 오도록 하자.
+> [Execution Context](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/Execution%20Context.md) 를 모른다면 보고 오도록 하자.
 
 스코프란 자바스크립트에서 할당을 받을 변수 혹은 값으로 참조하는 변수를 사용할 때 그 변수가 어디있는지 검색해야 하는데, 그 때 검색을 하기 위한 규칙의 집합이다.
 
