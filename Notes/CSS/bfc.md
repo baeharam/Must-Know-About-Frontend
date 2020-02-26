@@ -44,34 +44,89 @@ BFC가 생성되기 위해선 다음과 같은 조건 중 하나를 만족해야
 
 1. **마진겹침 제거하기**
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="BaeHaram" data-slug-hash="YzXGZBd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="BFC - Solve Margin Collapsing">
-  <span>See the Pen <a href="https://codepen.io/BaeHaram/pen/YzXGZBd">
-  BFC - Solve Margin Collapsing</a> by 배하람 (<a href="https://codepen.io/BaeHaram">@BaeHaram</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+```html
+<div class="bfc">
+  <p>element</p>
+  <p>element</p>
+  <div class="new-bfc">
+    <p>element</p>
+  </div>
+</div>
+```
+
+```css
+div {
+  background-color: blue;
+}
+p {
+  margin: 10px 0;
+  background-color: green;
+}
+.bfc {
+  overflow: hidden;
+}
+.new-bfc {
+  overflow: hidden;
+}
+```
+
+[Codepen](https://codepen.io/BaeHaram/pen/YzXGZBd)
 
 `p` 태그 사이에 10px의 마진이 마진겹침으로 인해 20px이 아닌 10px이 되었다. 이 때 새로운 BFC를 생성해서 `p` 를 집어넣으면 마진겹침을 해결할 수 있다.
 
 2. **float된 요소들 포함하기**
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="BaeHaram" data-slug-hash="oNXZBXJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="BFC - Solve floated element">
-  <span>See the Pen <a href="https://codepen.io/BaeHaram/pen/oNXZBXJ">
-  BFC - Solve floated element</a> by 배하람 (<a href="https://codepen.io/BaeHaram">@BaeHaram</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+```html
+<div class="container">
+  <div class="float"></div>
+</div>
+```
+
+```css
+.container {
+  border: 3px solid red;
+  overflow: hidden;
+}
+
+.float {
+  float: left;
+  width: 500px;
+  height: 300px;
+  background-color: yellow;
+}
+```
+
+[Codepen](https://codepen.io/BaeHaram/pen/oNXZBXJ)
 
 보통 float된 요소를 포함하기 위해선 `.clearfix` 핵을 사용하지만 새로운 BFC를 생성함으로도 해결할 수 있다.
 
 3. **float된 요소를 감싸는 텍스트를 분리하기**
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="BaeHaram" data-slug-hash="VwLpPvN" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="BFC - Solve test wrapping">
-  <span>See the Pen <a href="https://codepen.io/BaeHaram/pen/VwLpPvN">
-  BFC - Solve test wrapping</a> by 배하람 (<a href="https://codepen.io/BaeHaram">@BaeHaram</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+```html
+ <div class="container">
+  <div class="box"></div>
+  <p>많은 양의 텍스트....</p>
+</div>
+```
+
+```css
+.container {
+  border: 3px solid red;
+  overflow: hidden;
+}
+.box {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+
+p {
+  overflow: hidden;
+}
+```
+
+[Codepen](https://codepen.io/BaeHaram/pen/VwLpPvN)
 
 `p` 태그로 새로운 BFC를 생성하여 텍스트가 float 된 요소를 감싸지 않도록 하였다.
 
