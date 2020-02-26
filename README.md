@@ -25,6 +25,7 @@
 * [스코프 (Scope)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/scope.md)
 * [호이스팅 (Hoisting)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/Hoisting.md)
 * [클로저 (Closure)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/Closure.md)
+* [네이티브 객체 vs 호스트 객체](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/Native%20vs%20Host.md)
 
 :lipstick: **CSS**
 
