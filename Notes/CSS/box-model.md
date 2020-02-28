@@ -1,7 +1,7 @@
 # Box Model
 
 <p align="center">
-	<img src="../../images/box model.png">  
+	<img src="../../images/css/box model.png">  
 </p>
 
 문서상의 요소들을 시각적인 목적을 위해서, 모든 요소를 하나의 "직사각형 박스"로 여기는 모델이다. 모든 박스는 아래 영역들을 갖는다.

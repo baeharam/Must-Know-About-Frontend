@@ -4,7 +4,7 @@
 
 통합 자원 식별자라는 의미로 **인터넷 상의 리소스** 를 고유하게 식별할 수 있는 식별자이다. URI에는 위치를 알려주는 **URL(Uniform Resource Locator)** 와 전 세계를 통틀어 고유한 이름을 의미하는 **URN(Uniform Resource Name)** 이 존재한다.
 
-<img src="../../images/URI.png" width="400px">
+<img src="../../images/network/URI.png" width="400px">
 
 <br>
 

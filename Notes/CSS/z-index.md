@@ -4,7 +4,7 @@
 
 z-index를 이해하기 위해선 먼저, 쌓임 맥락(Stacking Context)의 개념을 이해해야 한다. **쌓임 맥락이란, HTML 요소들에 사용자를 바라보는 기준으로 가상의 z축을 생성하여 3차원 개념으로 보는 것** 이다. 따라서, 쌓임 맥락을 형성한다는 것은 자신만의 3차원 공간을 형성하는 것이며 그 요소들의 우선순위를 z-index가 정하게 되는 원리이다.
 
-<img src="../../images/stacking context.png">
+<img src="../../images/css/stacking context.png">
 
 [그림 출처](https://tympanus.net/codrops/css_reference/z-index/)
 
@@ -30,7 +30,7 @@ z-index를 이해하기 위해선 먼저, 쌓임 맥락(Stacking Context)의 개
 
 쌓임 맥락을 형성하는 요소가 아무것도 없다고 하면 다음 우선순위로 쌓이게 된다.
 
-<img src="../../images/default stacking order.png">
+<img src="../../images/css/default stacking order.png">
 
 [그림 출처](https://tympanus.net/codrops/css_reference/z-index/)
 
@@ -64,7 +64,7 @@ div {
 
 마크업이 위와 같이 되어 있을 때, `z-index` 에 따라 다음과 같이 쌓인다.
 
-<img src="../../images/z-index stacking order.png">
+<img src="../../images/css/z-index stacking order.png">
 
 [그림출처](https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 

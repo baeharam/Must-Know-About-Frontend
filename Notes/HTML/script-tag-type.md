@@ -8,7 +8,7 @@
 
 아래 그림을 통해 보다 확실하게 확인할 수 있다.
 
-<img src="../../images/script.png">
+<img src="../../images/html/script.png">
 
 <br>
 

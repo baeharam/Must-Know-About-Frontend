@@ -48,7 +48,7 @@ document.querySelector('div').addEventListener('click', () => {
 });
 ```
 
-<img src="../../images/rendering.png">
+<img src="../../images/frontend/rendering.png">
 
 위 로그를 보면 알 수 있는 것처럼 위에서 언급한 CRP가 진행된다.
 
