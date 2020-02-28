@@ -21,12 +21,12 @@
 :fire: **Javascript**
 
 * [Ajax](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/ajax.md)
-* [이벤트 위임 (Event Delegation)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/event-delegation)
-* [실행 컨텍스트 (Execution Context)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/execution-context)
+* [이벤트 위임 (Event Delegation)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/event-delegation.md)
+* [실행 컨텍스트 (Execution Context)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/execution-context.md)
 * [스코프 (Scope)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/scope.md)
 * [호이스팅 (Hoisting)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/hoisting.md)
 * [클로저 (Closure)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/closure.md)
-* [네이티브 객체 vs 호스트 객체](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/native-host)
+* [네이티브 객체 vs 호스트 객체](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/native-host.md)
 * [this의 바인딩](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/this.md)
 * [var vs let vs const](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/var-let-const.md)
 
