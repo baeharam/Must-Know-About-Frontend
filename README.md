@@ -3,6 +3,7 @@
 :computer: **프론트엔드 전반**
 
 * [CSR (Client Side Rendering) vs SSR(Server Side Rendering)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Frontend/CSR%20vs%20SSR.md)
+* [브라우저의 렌더링 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Frontend/browser-rendering.md)
 
 :page_with_curl: **HTML**
 
