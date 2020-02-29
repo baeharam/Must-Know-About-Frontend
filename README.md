@@ -12,12 +12,6 @@
 * [local storage vs session storage vs cookie](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/web-storage-api.md)
 * [script vs script async vs script defer](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/script-tag-type.md)
 
- :chart_with_upwards_trend: **네트워크**
-
-* [URL과 URN을 포함하는 URI](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/uri.md)
-* [REST API](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Network/rest-api.md)
-* [Cookie vs Session](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Network/cookie-session.md)
-
 :fire: **Javascript**
 
 * [Ajax](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/ajax.md)
@@ -37,3 +31,13 @@
 * [마진겹침 현상](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/margin-collapsing.md)
 * [BFC (Block Formatting Context)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/bfc.md)
 * [z-index의 동작방식](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/z-index.md)
+
+ :chart_with_upwards_trend: **네트워크**
+
+* [URL과 URN을 포함하는 URI](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/notes/network/uri.md)
+* [REST API](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/rest-api.md)
+* [Cookie vs Session](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/cookie-session.md)
+
+:lock: 보안
+
+* [동일 출처 정책 (Same Origin Policy)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/security/sop.md)
