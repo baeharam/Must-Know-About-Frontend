@@ -23,6 +23,7 @@
 * [네이티브 객체 vs 호스트 객체](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/native-host.md)
 * [this의 바인딩](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/this.md)
 * [var vs let vs const](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/var-let-const.md)
+* [IIFE (Immediately-Invoked Function Expression)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/iife.md)
 
 :lipstick: **CSS**
 
@@ -38,6 +39,6 @@
 * [REST API](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/rest-api.md)
 * [Cookie vs Session](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/cookie-session.md)
 
-:lock: 보안
+:lock: **보안**
 
 * [동일 출처 정책 (Same Origin Policy)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/security/sop.md)
