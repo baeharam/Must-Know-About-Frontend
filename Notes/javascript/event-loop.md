@@ -39,35 +39,35 @@ Promise.resolve().then(() => console.log('마이크로태스크 큐!'));
 
 그럼 하나하나 어떻게 동작하는지 그림으로 살펴보자.
 
-<img src="../../images/javascript/task0.PNG" width="600px">
+<img src="../../images/javascript/task0.png" width="600px">
 
 제일 먼저, "스크립트 실행" 태스크가 태스크 큐에 들어가게 된다.
 
-<img src="../../images/javascript/task1.PNG" width="600px">
+<img src="../../images/javascript/task1.png" width="600px">
 
 이후, 이벤트 루프가 그 태스크를 가져와서 로드된 스크립트를 실행시킨다. 따라서 맨 처음에 `console.log` 가 실행된다.
 
-<img src="../../images/javascript/task2.PNG" width="600px">
+<img src="../../images/javascript/task2.png" width="600px">
 
 그 다음, `setTimeout()` 이 콜 스택으로 가고 브라우저가 이를 받아서 타이머를 동작시킨다.
 
-<img src="../../images/javascript/task3.PNG" width="600px">
+<img src="../../images/javascript/task3.png" width="600px">
 
 타이머가 끝나면 `setTimeout()` 의 콜백함수를 태스크 큐에 넣는다.
 
-<img src="../../images/javascript/task4.PNG" width="600px">
+<img src="../../images/javascript/task4.png" width="600px">
 
 `Promise` 가 콜 스택으로 가고 콜백함수를 마이크로태스크 큐에 넣는다.
 
-<img src="../../images/javascript/task5.PNG" width="600px">
+<img src="../../images/javascript/task5.png" width="600px">
 
 이벤트 루프는 마이크로태스크 큐에서 제일 오래된 태스크인 `Promise` 의 콜백함수를 가져와 콜 스택에 넣는다.
 
-<img src="../../images/javascript/task6.PNG" width="600px">
+<img src="../../images/javascript/task6.png" width="600px">
 
 `Promise` 의 콜백함수가 끝나고 태스크 큐에서 제일 오래된 태스크인 `setTimeout()` 의 콜백함수를 가져와 콜 스택에 넣는다.
 
-<img src="../../images/javascript/task7.PNG" width="600px">
+<img src="../../images/javascript/task7.png" width="600px">
 
 `setTimeout()` 의 콜백함수가 끝나면 콜 스택이 비게 되고 프로그램이 종료된다.
 
