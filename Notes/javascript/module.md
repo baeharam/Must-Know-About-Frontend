@@ -183,4 +183,4 @@ import { B } from 'moduleB';
 * [module.exports vs exports in Node.js](https://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-node-js)
 * [JavaScript 표준을 위한 움직임: CommonJS와 AMD](https://d2.naver.com/helloworld/12864)
 * [RequireJS - AMD의 이해와 개발](https://d2.naver.com/helloworld/591319)
-* [requireJS를 통한 모듈화 및 의존성 관리 - (1)]([https://wckhg89.github.io/archivers/requirejs1#requirejs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%93%88%ED%99%94-%EB%B0%8F-%EC%9D%98%EC%A1%B4%EC%84%B1-%EA%B4%80%EB%A6%AC](https://wckhg89.github.io/archivers/requirejs1#requirejs를-이용한-모듈화-및-의존성-관리))
+* [requireJS를 통한 모듈화 및 의존성 관리 - (1)](https://wckhg89.github.io/archivers/requirejs1#requirejs를-이용한-모듈화-및-의존성-관리)
