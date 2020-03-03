@@ -1,31 +1,32 @@
 # 스코프
 
-> [Execution Context](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/Execution%20Context.md) 를 모른다면 보고 오도록 하자.
+> [실행 컨텍스트(Execution Context)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/execution-context.md) 를 모른다면 보고 오도록 하자.
 
-스코프란 자바스크립트에서 할당을 받을 변수 혹은 값으로 참조하는 변수를 사용할 때 그 변수가 어디있는지 검색해야 하는데, 그 때 검색을 하기 위한 규칙의 집합이다.
+## 정의
+
+스코프란 **자바스크립트 엔진이 참조의 대상이 되는 식별자(Identifier)를 검색할 때 사용하는 규칙의 집합** 이다. 즉, 어떤 변수를 사용하거나 함수를 호출하려고 할 때 해당하는 식별자로 사용하는데, 그 식별자를 검색하는 메커니즘이라고 이해하면 된다.
 
 <br>
 
 ## 렉시컬 스코프
 
-자바스크립트는 컴파일러가 토크나이징(Tokenizing)으로 토큰을 분리하고 **렉싱(Lexing) 으로 토큰에 의미를 부여할 때 스코프를 정하는** 렉시컬 스코프를 사용한다. 즉, 변수 혹은 함수가 선언되는 위치를 기반으로 스코프가 형성된다. 렉시컬 스코프로 식별자를 찾을 때는 다음과 같은 과정을 거친다.
-
-1. 현재 스코프에 원하는 식별자가 있는가? → 있다면 해당 식별자를 참조하고 끝난다.
-2. 상위 스코프에 원하는 식별자가 있는가? → 있다면 해당 식별자를 참조하고 끝난다.
-3. 계속 상위 스코프로 이동하다가 글로벌 스코프를 만나게 되면, 해당 식별자가 있든 없든 끝이 난다.
+**프로그래머가 코드를 짤 때, 변수 및 함수/블록 스코프를 어디에 작성하였는가에 따라 정해지는 스코프** 를 렉시컬 스코프라고 한다. "렉시컬(Lexical)" 이라는 명칭이 붙은 이유는 자바스크립트 컴파일러가 소스코드를 토큰(Token)으로 쪼개서 의미를 부여하는 렉싱(Lexing) 단계에 해당 스코프가 확정되기 때문이다. 다시 쉽게 말하면, 변수 혹은 함수/블록이 어디에 써있는가를 보고 그 스코프를 판단하면 된다.
 
 <br>
 
 ## 스코프 체인
 
-위에서 설명한 것과 같이 상위 스코프를 찾아가기 위해선, 그에 대한 참조가 있어야 한다. 이 참조는 EC(Execution Context)에서 말했던 Lexical/Variable Environment에 있다. 각 EC는 Lexical/Variable Environment를 갖고 있고, 그 안에 각각 Environment Record와 outer 포인터를 갖는다. **여기서 outer 포인터가 바로 상위 스코프를 참조하는 요소이다.** 따라서, 스코프 체인은 다음과 같이 동작한다.
+**현재 스코프에서 식별자를 검색할 때 상위 스코프를 연쇄적으로 찾아나가는 방식** 을 말한다. 실행 컨텍스트를 배웠다면 생성될 때마다 LexicalEnvironment가 만들어지고 그 안에 outer 참조 값이 있다는 것을 알 것이다. 바로 이 outer 참조 값이 상위 스코프의 LexicalEnvironment를 가리키기 때문에 이를 통해 체인처럼 연결되는 것이다.
 
-* 현재 EC의 Lexical/Variable Environment의 Environment Record에서 해당 식별자를 찾는다.
-* 없으면, outer 포인터를 통해 외부의 Lexical/Variable Environment를 보고 Environment Record에서 다시 해당 식별자를 찾는다.
-* outer가 `null` 일 때까지 반복해서 찾고 없으면 에러를 발생시킨다.
+즉, 다음과 같은 과정으로 스코프 체인을 검색한다.
+
+1. 현재 실행 컨텍스트의 LexicalEnvironment의 EnvironmentRecord에서 식별자를 검색한다.
+2. 없으면 outer 참조 값으로 스코프 체인을 타고 올라가 상위 스코프의 EnvironmentRecord에서 식별자를 검색한다.
+3. 이를 outer 참조 값이 `null` 일 때까지 계속하고 찾지 못한다면 에러를 발생시킨다.
 
 <br>
 
 ## 참조
 
 * [You don't know JS, Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch1.md)
+* [PoiemaWeb, 스코프](https://poiemaweb.com/js-scope)
