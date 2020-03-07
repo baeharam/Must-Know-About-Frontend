@@ -40,7 +40,7 @@
 
  :chart_with_upwards_trend: **네트워크**
 
-* [URL과 URN을 포함하는 URI](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/notes/network/uri.md)
+* [URL과 URN을 포함하는 URI](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/uri.md)
 * [REST API](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/rest-api.md)
 * [Cookie vs Session](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/cookie-session.md)
 
