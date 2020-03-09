@@ -1,6 +1,6 @@
 # local storage vs session storage vs cookie
 
-모두 클라이언트 상에서 key/value 쌍을 저장할 수 있는 메커니즘으로 **value는 반드시 문자열** 이어야 한다. 또한 모두 동일 출처 정책(SOP)을 따르기 때문에 다른 도메인에서 접근할 수 없다.
+모두 클라이언트 상에서 key/value 쌍을 저장할 수 있는 메커니즘으로 **value는 반드시 문자열** 이어야 한다. 또한 모두 [동일 출처 정책(SOP)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/security/sop.md) 을 따르기 때문에 다른 도메인에서 접근할 수 없다.
 
 |               | cookie           | local storage         | session storage         |
 | ------------- | ---------------- | --------------------- | ----------------------- |
