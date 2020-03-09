@@ -31,6 +31,7 @@
 * [프로토타입 (Prototype)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/prototype.md)
 * [ES6 (2015) 의 특징들](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/es6.md)
 * [== vs ===](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/identity-equal.md)
+* [엄격 모드 (Strict mode)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/strict-mode.md)
 
 :lipstick: **CSS**
 
