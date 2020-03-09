@@ -29,6 +29,7 @@
 * [콜 스택(Call stack)과 힙(Heap)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/stack-heap.md)
 * [이벤트 루프 (Event loop)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/event-loop.md)
 * [프로토타입 (Prototype)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/prototype.md)
+* [ES6 (2015) 의 특징들](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/es6.md)
 
 :lipstick: **CSS**
 
