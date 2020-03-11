@@ -52,3 +52,4 @@
 :lock: **보안**
 
 * [동일 출처 정책 (Same Origin Policy)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/security/sop.md)
+* [XSS와 CSRF](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/security/xss-csrf.md)
