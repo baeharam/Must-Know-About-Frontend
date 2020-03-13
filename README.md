@@ -45,6 +45,7 @@
 * [BFC (Block Formatting Context)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/bfc.md)
 * [z-index의 동작방식](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/z-index.md)
 * [block vs inline vs inline-block](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/block-inline-inline-block.md)
+* [가로/세로 가운데 정렬하기](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/center.md)
 
  :chart_with_upwards_trend: **네트워크**
 
