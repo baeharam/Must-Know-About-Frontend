@@ -5,6 +5,7 @@
 * [CSR (Client Side Rendering) vs SSR(Server Side Rendering)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/csr-ssr.md)
 * [브라우저의 렌더링 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/browser-rendering.md)
 * [자바스크립트 엔진이 코드를 실행하는 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/engine.md)
+* [BOM과 DOM](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/bom-dom.md)
 
 :page_with_curl: **HTML**
 
