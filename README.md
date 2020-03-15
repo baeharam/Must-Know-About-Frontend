@@ -2,13 +2,13 @@
 
 ## 목차
 
-* [소개](#소개)
-* [프론트엔드 전반](#프론트엔드-전반)
-* [HTML](#HTML)
-* [CSS](#CSS)
-* [Javascript](#Javascript)
-* [네트워크](#네트워크)
-* [보안](#보안)
+* [소개](#tada-소개)
+* [프론트엔드 전반](#computer-프론트엔드-전반)
+* [HTML](#page_with_curl-html)
+* [CSS](#lipstick-css)
+* [Javascript](#fire-javascript)
+* [네트워크](#chart_with_upwards_trend-네트워크)
+* [보안](#lock-보안)
 
 <br>
 
