@@ -76,6 +76,7 @@
 ## :chart_with_upwards_trend: 네트워크
 
 * [TCP와 UDP](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/tcp-udp.md)
+* [HTTP](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/http.md)
 * [URL과 URN을 포함하는 URI](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/uri.md)
 * [REST API](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/rest-api.md)
 * [Cookie vs Session](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/cookie-session.md)
