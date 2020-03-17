@@ -14,7 +14,11 @@
 
 ## :tada: 소개
 
-취업 전 반드시 알아야 하는 프론트엔드쪽 지식들을 모아놓은 저장소입니다. 면접준비를 하면서 회사에서 물어보는 다양한 질문들과 놓칠 수 있는 지식들을 정리합니다. 컴퓨터 공학의 전반적인 분야에 대한 것이 아닌, 오직 프론트엔드 쪽 지식만을 정리합니다. 단, 기본적인 문법 및 기초지식은 다루지 않으며 너무 깊게도 다루지 않습니다. 제가 생각하기에 이정도는 알아야 되지 않을까? 하는 것들을 정리하였습니다. 틀린 내용이 있을 수 있으며 이 부분은 PR이나 이슈를 주시면 고치겠습니다.
+취업 전 반드시 알아야 한다고 생각하는 프론트엔드 분야의 기초지식들을 모아놓았습니다. 실제 면접질문들과 구글링을 통해 검색한 필수지식 및 질문들을 통해서 하나하나 정리했습니다.
+
+* 기초지식을 너무 얕게 혹은 너무 깊게 말고 **적당한 선으로 정리** 했습니다.
+* 컴퓨터공학의 전반적인 것이 아닌 오직 **프론트엔드 쪽만 정리** 했습니다.
+* 개인적으로 정리한 내용이라 **틀린 부분이 있을 수 있으니** 언제든지 PR과 이슈를 날려주세요.
 
 <br>
 
@@ -24,6 +28,7 @@
 * [브라우저의 렌더링 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/browser-rendering.md)
 * [자바스크립트 엔진이 코드를 실행하는 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/engine.md)
 * [BOM과 DOM](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/bom-dom.md)
+* [모듈 번들러와 트랜스파일러](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/bundler-transpiler.md)
 
 <br>
 
@@ -79,6 +84,7 @@
 
 * [TCP와 UDP](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/tcp-udp.md)
 * [HTTP](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/http.md)
+* [HTTPS](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/https.md)
 * [URL과 URN을 포함하는 URI](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/uri.md)
 * [REST API](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/rest-api.md)
 * [Cookie vs Session](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/cookie-session.md)
