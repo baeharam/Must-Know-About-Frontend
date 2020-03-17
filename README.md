@@ -34,6 +34,7 @@
 * [data- 속성](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/data.md)
 * [local storage vs session storage vs cookie](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/web-storage-api.md)
 * [script vs script async vs script defer](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/script-tag-type.md)
+* [시맨틱 마크업](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/semantic.md)
 
 <br>
 
