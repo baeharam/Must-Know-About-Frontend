@@ -54,6 +54,7 @@
 * [가로/세로 가운데 정렬하기](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/center.md)
 * [Reset.css vs Normalize.css](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/reset-normalize.md)
 * [그리드 시스템](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/grid.md)
+* [img 아래쪽 공백 제거](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/img-space.md)
 
 <br>
 
