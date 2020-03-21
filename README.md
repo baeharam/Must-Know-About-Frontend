@@ -76,7 +76,7 @@
 * [프로토타입 (Prototype)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/prototype.md)
 * [== vs ===](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/identity-equal.md)
 * [엄격 모드 (Strict mode)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/strict-mode.md)
-* [new의 동작방식](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/strict-mode.md)
+* [new의 동작방식](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/new.md)
 * [ES6 (2015) 의 특징들](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/es6.md)
 * [ES7 (ES2016) ~ ES8 (ES2017) 의 특징들](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/es7-es8.md)
 * [ES9 (ES2018) ~ ES10 (ES2019) 의 특징들](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/es9-es10.md)
