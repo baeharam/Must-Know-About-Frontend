@@ -90,6 +90,7 @@
 * [TCP와 UDP](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/tcp-udp.md)
 * [HTTP](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/http.md)
 * [HTTPS](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/https.md)
+* [HTTP/1.1 vs HTTP/2](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/http1.1-2.md)
 * [URL과 URN을 포함하는 URI](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/uri.md)
 * [REST API](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/rest-api.md)
 * [Cookie vs Session](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/cookie-session.md)
