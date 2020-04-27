@@ -94,6 +94,7 @@
 * [REST API](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/rest-api.md)
 * [Cookie vs Session](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/cookie-session.md)
 * [URL을 입력하고 벌어지는 일](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/type-url-process.md)
+* [CDN](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/cdn.md)
 
 <br>
 
