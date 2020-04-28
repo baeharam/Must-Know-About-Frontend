@@ -30,6 +30,7 @@
 * [BOM과 DOM](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/bom-dom.md)
 * [모듈 번들러와 트랜스파일러](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/bundler-transpiler.md)
 * [CI와 CD](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/ci-cd.md)
+* [CSS와 JS 애니메이션의 차이점](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/css-js-animation.md)
 
 <br>
 
