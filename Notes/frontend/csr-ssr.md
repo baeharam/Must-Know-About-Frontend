@@ -60,9 +60,9 @@ SSR에선 브라우저가 페이지를 요청할 때마다 해당 페이지에 �
 
 * [Client-Side Rendering versus Server-Side Rendering!](https://altalogy.com/blog/client-side-rendering-vs-server-side-rendering/)
 * [What are Single Page Applications(SPA)?](https://dev.to/kendyl93/what-are-single-page-applications-spa-32bh)
-* [SPA에서의 SSR과 CSR](https://velog.io/@rjs1197/SSR과-CSR의-차이를-알아보자)
 * [The Benefits of Server Side Rendering Over Client Side Rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
 * [싱글 페이지 어플리케이션에서의 검색 엔진 최적화 (SEO)](https://funnygangstar.tistory.com/entry/싱글-페이지-어플리케이션에서의-검색-엔진-최적화-SEO)
 * [Google I/O 2019: Day 3 후기](https://hyunseob.github.io/2019/05/26/google-io-2019-day-3/)
 * [[주니어탈출기] 서버사이드렌더링(SSR) & 클라이언트사이드렌더링(CSR)](https://velog.io/@zansol/확인하기-서버사이드렌더링SSR-클라이언트사이드렌더링CSR)
 * [SPA 단점에 대한 단상](https://m.mkexdev.net/374)
+* [CSR vs SSR](https://medium.com/@adamzerner/client-side-rendering-vs-server-side-rendering-a32d2cf3bfcc)
