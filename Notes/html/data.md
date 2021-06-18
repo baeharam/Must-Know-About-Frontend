@@ -18,5 +18,5 @@
 ## 참고
 
 * [W3, Custom Data Attribute](https://www.w3.org/TR/2011/WD-html5-20110525/elements.html#custom-data-attribute)
-* [프론트엔드 인터뷰 핸드북, `data-` 속성은 무엇에 좋은가요?](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Korean/questions/html-questions.md#data-속성은-무엇에-좋은가요)
+* [프론트엔드 인터뷰 핸드북, `data-` 속성은 무엇에 좋은가요?](https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/kr/html-questions.md#data-속성은-무엇에-좋은가요)
 
