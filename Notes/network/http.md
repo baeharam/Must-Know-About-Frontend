@@ -117,5 +117,5 @@
 * [MDN, HTTP 요청 메서드](https://developer.mozilla.org/ko/docs/Web/HTTP/Methods)
 * [위키백과, HTTP 상태 코드](https://ko.wikipedia.org/wiki/HTTP_상태_코드)
 * [Wikipedia, List of HTTP header fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
-* [🙈[HTTP\] HTTP 특성(비연결성, 무상태)과 구성요소 그리고 Restful API🐵](https://victorydntmd.tistory.com/286)
+* [🙈\[HTTP\] HTTP 특성(비연결성, 무상태)과 구성요소 그리고 Restful API🐵](https://victorydntmd.tistory.com/286)
 * [[Network] HTTP 헤더의 종류 및 항목](https://gmlwjd9405.github.io/2019/01/28/http-header-types.html)
