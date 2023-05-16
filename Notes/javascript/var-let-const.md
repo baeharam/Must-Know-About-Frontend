@@ -4,7 +4,7 @@
 
 ## 스코프 규칙
 
-> 스코프의 개념을 모른다면 [스코프](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/scope.md) 를 보고 오자.
+> 스코프의 개념을 모른다면 [스코프](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/scope.md) 를 보고 오자.
 
 * var는 함수 스코프를 갖는다.
 * let과 const는 블록 스코프를 갖는다.
@@ -33,7 +33,7 @@ run();
 
 ## 호이스팅
 
-> 호이스팅의 개념을 모른다면 [호이스팅](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/Hoisting.md) 을 보고 오자.
+> 호이스팅의 개념을 모른다면 [호이스팅](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/Hoisting.md) 을 보고 오자.
 
 * var는 **함수 스코프의 최상단으로 호이스팅** 되고 선언과 동시에 `undefined` 로 초기화 된다.
 * let과 const는 **블록 스코프의 최상단으로 호이스팅** 되고 선언만 되고 값이 할당되기 전까지 어떤 값으로도 초기화되지 않는다.
