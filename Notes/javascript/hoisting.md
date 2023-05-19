@@ -1,6 +1,6 @@
 # 호이스팅(Hoisting)
 
-> [스코프](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/Javascript/scope.md) 의 개념을 이해하지 못했다면 이해하고 오자.
+> [스코프](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/scope.md) 의 개념을 이해하지 못했다면 이해하고 오자.
 
 호이스팅이란 "끌어올린다" 라는 뜻으로 **변수 및 함수 선언문이 스코프 내의 최상단으로 끌어올려지는 현상** 을 말한다. 여기서 주의할 점은 **"선언문"** 이라는 것이며 "대입문"은 끌어올려지지 않는다. 아래 코드를 보자.
 
